@@ -502,7 +502,6 @@ nav ul li:first-child a {
         justify-content: space-between;
         gap: 0px;
         padding: 10px 33px;
-        margin-right: 20px;
     }
 
     .hamburger {
